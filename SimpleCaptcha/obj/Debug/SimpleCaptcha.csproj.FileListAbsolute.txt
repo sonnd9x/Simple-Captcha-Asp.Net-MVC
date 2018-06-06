@@ -1,0 +1,7 @@
+E:\OneDrive\03. My Project\SimpleCaptcha\SimpleCaptcha\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\OneDrive\03. My Project\SimpleCaptcha\SimpleCaptcha\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\OneDrive\03. My Project\SimpleCaptcha\SimpleCaptcha\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\OneDrive\03. My Project\SimpleCaptcha\SimpleCaptcha\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\OneDrive\03. My Project\SimpleCaptcha\SimpleCaptcha\bin\roslyn\System.Collections.Immutable.dll
+E:\OneDrive\03. My Project\SimpleCaptcha\SimpleCaptcha\bin\roslyn\System.Reflection.Metadata.dll
+E:\OneDrive\03. My Project\SimpleCaptcha\SimpleCaptcha\bin\roslyn\VBCSCompiler.exe
